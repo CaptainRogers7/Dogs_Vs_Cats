@@ -6,3 +6,4 @@ readme[1].txt
 /datatest
 /datatrain
 /dataset
+*.h5
